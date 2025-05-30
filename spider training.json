@@ -1,0 +1,47 @@
+[
+  {
+    "context": "Phidippus, like most other spiders, have eight eyes affixed toward the front and top of the carapace. Each simple eye has a single fixed lens. Apart from the relatively small posteriormedial eyes (PME), there are two types of eyes, represented by the two anterior medial or principal eyes, and the four lateral eyes ",
+    "description": "Phidippus spiders have eight simple, fixed-lens eyes on the front and top of the carapace, including two large anterior medial (principal) eyes, four lateral eyes, and two small posterior medial eyes.",
+    "narration":  "Tigra, like other spiders, has eight simple eyes fixed toward the front and top of her little carapace—two big central eyes for sharp vision, four lateral ones for catching movement, and two tiny posterior medial eyes—all working together to help her watch, stalk, and pounce like a tigress"
+  },
+  {
+    "context" : "As viewed from the front, each retina is boomerang-shaped and\ncovers a relatively small field of view (Land 1969a,\n1969b). Spacing of receptors in layer I provides the\nhighest level of visual acuity, estimated at a remarkable 2.3 arc minutes (0.04o) in the salticid Phiale (Blest 1985).\nGreen-peak (520 nm) and UV-peak (360 nm) receptors\nare found in layers I and IV respectively, correcting for\nchromatic aberration (different wavelengths have\ndifferent focal lengths)",
+    "description": "Each boomerang-shaped retina in jumping spiders like Phiale provides exceptionally high visual acuity (2.3 arc minutes), with green-sensitive receptors in layer I and UV-sensitive receptors in layer IV helping to correct chromatic aberration.",
+    "narration": "Tigra’s tiny, boomerang-shaped retinas give her impressively sharp vision for her size—thanks to specialized green-sensitive receptors in one layer and UV-sensitive ones in another, she can correct for color distortions and spot even the smallest movements with striking precision."
+  },
+  {
+    "context": "However, molecular and electrophysiological data suggest that color vision in the acute ‘principal’ eyes of most jumping spiders is based on only two types of photosensitive pigment, one sensitive to ultraviolet (UV) light, the other to green light",
+    "description": "Jumping spiders' principal eyes only have two types of photosensitive pigments: one sensitive to UV light and one to green light",
+    "narration": "Tigra's principal eyes detect the world in shades of UV and green"
+  },
+  {
+    "context": "Unprepared jumps allowed the spider to evade a disturbance by jumping in any direction as an escape reaction. In contrast, prepared jumps were anteriorly directed, and always had a characteristic posture and motion: a backwards and downwards preliminary countermovement of the centre of mass, then a jump executed by extension of initially the fourth leg pair, then the second leg pair."
+    "description": "If unprepared, the spider can jump in any direction to evade a threat. If hunting, the spider's jumps are always anteriorly directed.",
+    "narration": "Tigra prepares to pounce and will jump anteriorly towards her prey."
+  }
+  {
+    "context": "Short jumps towards targets moving at an angular velocity of more than 15°/s are mediated by the anterior-lateral eyes when the anterior-median eyes are covered. Since a significant negative correlation (P<0.005) is shown between these short jump distances and target velocity, the anterior-lateral eyes must process information relative to these variables.",
+    "description": "Short jumps towards fast-moving targets are mediated by the anterolateral eyes.",
+    "narration": "Tigra uses her anterolateral eyes to coordinate the short jump distance between her and the fast-moving fly."
+  }
+
+  {
+    "context": "In a salticid jump, the front limbs are utilised in landing and prey capture, and are lifted prior to a jump21. The spider also uses its opisthosoma to attach a silk line to the substrate before jumping, which acts as a safety line in case of a missed landing and may act as a mechanism for directional stability in flight",
+    "description": "The front limbs are lifted prior to a jump. The spider will attach a silk line to the prey before jumping.",
+    "narration": "Tigra attaches a silk thread to the substrate in case of missed landing and to provide stability for her jump. She lifts her front limbs as she prepares to pounce."
+  }
+  {
+    "context": "Continuous movement during a segment of pursuit is not necessarily linear, and it can include multiple turns,traverses on silk lines, and even jumps between positions.These spiders will generally continue pursuit to attain a position near sighted prey, even if that prey or primary objective cannot be sighted during a reorientation turn. ",
+    "description": "Movement during hunting is not necessarily linear and might involve multiple turns and jumps between positions. Pursuit will continue even if the prey cannot be sighted as the spider reorients itself",
+    "narration": "Tigra repositions herself as she hunts the spider. She is continuously mobile during pursuit but it is not necessarily linear. She will continue to pursue the prey even if she cannot directly see it as she repositions herself."
+  },
+  {
+    "context": "A salticid clearly requires an accurate memory (internal representation) for the relative position (location) of prey (or other objectives) if it is to complete a detour of any complexity, particularly if the objective is not visible at all times."
+    "description": "A jumping spider requires an accurate memory for the relative location of its prey",
+    "narration": "Though the fly is not visible from this angle, Tigra retains an accurate memory of its relative location, allowing continuous pursuit"
+  }
+
+  {
+
+  }
+]

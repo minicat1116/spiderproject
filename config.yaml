@@ -1,0 +1,7 @@
+path: /Users/janhavi/Desktop/content
+train: images/train
+val: images/val
+
+names:
+  0: tigra
+  1: prey
