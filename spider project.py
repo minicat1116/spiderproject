@@ -1,10 +1,10 @@
 from ultralytics import YOLO
 import cv2
 
-# Load YOLOv8 model
+#load YOLOv8 model
 model = YOLO('yolov8n.pt')
 
-# Replace this with a local path like 'video.mp4'
+#video path
 video_path = '/Users/janhavi/Desktop/tigra_hunting.mov'
 cap = cv2.VideoCapture(video_path)
 
@@ -17,13 +17,13 @@ while True:
     if not ret:
         break
 
-    # Object detection & tracking
+    #object detection & tracking
     results = model.track(frame, persist=True)
 
-    # Plot results
+    #plot results
     frame_ = results[0].plot()
 
-    # Display
+    #display
     cv2.imshow('YOLOv8 Tracking', frame_)
 
     if cv2.waitKey(1) & 0xFF == ord('q'):
